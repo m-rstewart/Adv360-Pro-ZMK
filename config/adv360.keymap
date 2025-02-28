@@ -53,7 +53,7 @@
 &none      &none   &none   &none         &none     &none   &none                                   &none  &none   &none           &kp UP_ARROW    &none            &none    &none
 &none      &none   &none   &none         &none     &none   &none   &none  &none      &none  &none  &none  &none   &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &none    &none
 &kp LSHFT  &none   &none   &none         &none     &none                  &none      &none                &none   &none           &none           &none            &none    &none
-&tog 0     &none   &none   &kp LEFT_ALT  &kp LCMD          &none   &none  &none      &none  &none  &none          &none           &none           &none            &none    &none
+&trans     &none   &none   &kp LEFT_ALT  &kp LCMD          &none   &none  &none      &none  &none  &none          &none           &none           &none            &none    &none
             >;
         };
 
